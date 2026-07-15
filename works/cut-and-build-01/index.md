@@ -2,7 +2,7 @@
 layout: page
 title: "Cut & Build 1 (2026)"
 description: "A wooden board (15×9×1.5cm, white-painted) cut once through its center of gravity and rejoined at the cut face — a sculptural record of structural transformation."
-image: /works/cut-and-build-01/images/03-cut-vertical-90deg.jpg
+image: /works/cut-and-build-01/cut90.webp
 ---
 
 # Cut & Build 1 (2026)
@@ -19,20 +19,20 @@ image: /works/cut-and-build-01/images/03-cut-vertical-90deg.jpg
 
 ## 画像 / Images
 
-### 01 — 未切断(0°) / Uncut (0°)
-![Uncut white-painted wooden board, Cut & Build 1, 2026](./images/01-uncut-0deg.jpg)
+### 未切断 / Uncut
+![Uncut white-painted wooden board, Cut & Build 1, 2026](./cutno.webp)
 
-### 02 — 切断・斜め / Diagonal cut
-![Wooden board cut diagonally and rejoined, Cut & Build 1, 2026](./images/02-cut-diagonal-a.jpg)
+### 切断 0° / Cut at 0°
+![Wooden board cut at 0 degrees and rejoined, Cut & Build 1, 2026](./cut0.webp)
 
-### 03 — 切断・垂直(再接合) / Vertical cut, rejoined
-![Wooden board cut vertically at 90 degrees and rejoined, Cut & Build 1, 2026](./images/03-cut-vertical-90deg.jpg)
+### 切断 30° / Cut at 30°
+![Wooden board cut at 30 degrees and rejoined, Cut & Build 1, 2026](./cut30.webp)
 
-### 04 — 切断・斜め(別角度) / Diagonal cut (variant)
-![Wooden board cut at a steeper diagonal angle and rejoined, Cut & Build 1, 2026](./images/04-cut-diagonal-b.jpg)
+### 切断 60° / Cut at 60°
+![Wooden board cut at 60 degrees and rejoined, Cut & Build 1, 2026](./cut60.webp)
 
-### 05 — 切断・水平 / Horizontal cut
-![Wooden board cut horizontally through the center and rejoined, Cut & Build 1, 2026](./images/05-cut-horizontal.jpg)
+### 切断 90° / Cut at 90°
+![Wooden board cut at 90 degrees and rejoined, Cut & Build 1, 2026](./cut90.webp)
 
 ---
 
