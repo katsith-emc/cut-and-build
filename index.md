@@ -6,6 +6,6 @@ description: "An artwork series visualizing the E=mc Thought Principle: uniform 
 
 ## E=mc Thought Principle — Artwork Series
 
-均一な素材から、切断角度の違いによって非一様な結果を生成する彫刻シリーズ。
+A sculpture series generating non-uniform outcomes from uniform material, through variation in cutting angle — a physical manifestation of the E=mc Thought Principle.
 
 - [Cut & Build 1 (2026)](./works/cut-and-build-01/)
