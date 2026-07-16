@@ -4,7 +4,8 @@ title: Cut & Build
 description: "An artwork series visualizing the E=mc Thought Principle: uniform wooden boards, cut once and rejoined at the cut face, generating non-uniform structural outcomes from uniform material."
 ---
 
-## E=mc Thought Principle — Artwork Series
+## A Rule-Based Sculpture Series
+
 
 A sculpture series generating non-uniform outcomes from uniform material, through variation in cutting angle — a physical manifestation of the E=mc Thought Principle.
 
