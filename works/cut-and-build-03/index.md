@@ -4,7 +4,6 @@ description: A wooden board (15×9×1.5cm, white-painted) cut at 0°, 30°, 60°
 image: /works/cut-and-build-03/cut30p.webp
 ---
 
-# Cut & Build 3 (2026)
 
 Material: Wood, acrylic paint (white)
 Size: 15 × 9 × 1.5 cm
