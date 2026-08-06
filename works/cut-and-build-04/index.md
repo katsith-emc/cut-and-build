@@ -31,7 +31,7 @@ Size: 15 × 9 × 1.5 cm
 ### Cut at 90°, vertical bonding
 
 ![Wooden board cut at 90 degrees, vertically bonded, Cut & Build 4, 2026](cut90v.webp)
-![Wooden board cut at 90 degrees, vertically bonded, Cut & Build 4, 2026](cut90altv.webp)
+![Wooden board cut at 90 degrees, vertically bonded, Cut & Build 4, 2026](cut90valt.webp)
 
 ---
 
