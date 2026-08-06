@@ -15,23 +15,21 @@ Size: 15 × 9 × 1.5 cm
 
 ### Cut at 0°, vertical bonding
 
-![Wooden board cut at 0 degrees, vertically bonded, Cut & Build 4, 2026](./cut0v.webp)
+![Wooden board cut at 0 degrees, vertically bonded, Cut & Build 4, 2026](cut0v.webp)
 
 ### Cut at 30°, vertical bonding
 
-![Wooden board cut at 30 degrees, vertically bonded, Cut & Build 4, 2026](./cut30v.webp)
+![Wooden board cut at 30 degrees, vertically bonded, Cut & Build 4, 2026](cut30v.webp)
 
 ### Cut at 60°, vertical bonding
 
-![Wooden board cut at 60 degrees, vertically bonded, Cut & Build 4, 2026](./cut60v.webp)
+![Wooden board cut at 60 degrees, vertically bonded, Cut & Build 4, 2026](cut60v.webp)
 
 ### Cut at 90°, vertical bonding
 
-![Wooden board cut at 90 degrees, vertically bonded, Cut & Build 4, 2026](./cut90v.webp)
+![Wooden board cut at 90 degrees, vertically bonded, Cut & Build 4, 2026](cut90v.webp)
 
-### Alternative view
 
-![Cut & Build 4, alternative view, 2026](./cut4alt.webp)
 
 ---
 [← Back to Works](../../)
