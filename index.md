@@ -15,4 +15,6 @@ A sculpture series generating non-uniform outcomes from uniform material, throug
 - [Cut & Build 3 (2026)](./works/cut-and-build-03/)
 - [Cut & Build 4 (2026)](./works/cut-and-build-04/)
 
-**Work line — in preparation.**
+**Work line:**
+
+- [Study 1 (2026)](./works/study-01/)
