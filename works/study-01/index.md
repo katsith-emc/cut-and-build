@@ -18,7 +18,7 @@ Each stage of this transformation is recorded and minted as an NFT — a photogr
 
 ![Cut pieces from a single board, showing the cut lines that will be combined into Study 1, 2026](0study.webp)
 
-The board is cut into the pieces that will be combined into a standing form. This is the structural origin from which the piece begins to transform.
+Four cuts through the center of gravity of a single board, at angles of 0°, 30°, 60°, and 90°, dividing it into eight fragments. Not yet combined, not yet transformed — only the state of possibility, divided. This is the origin point from which the piece will begin to take form.
 
 [NFT #0: Cut State — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/1)
 
