@@ -9,7 +9,7 @@ description: "An artwork series visualizing the E=mc Thought Principle: uniform 
 
 A sculpture series generating non-uniform outcomes from uniform material, through variation in cutting angle — a physical manifestation of the E=mc Thought Principle.
 
-E=mc Thought Principle research — ORCID: [0009-0005-6641-5756](https://orcid.org/0009-0005-6641-5756)
+(E=mc Thought Principle research — ORCID: [0009-0005-6641-5756](https://orcid.org/0009-0005-6641-5756))
 
 **Structural line — works that make theory visible:**
 - [Cut & Build 1 (2026)](./works/cut-and-build-01/)
