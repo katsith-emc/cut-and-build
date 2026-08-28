@@ -4,7 +4,7 @@ description: A study in the Work line of Cut & Build — pieces from a single cu
 image: /works/study-01/0study.webp
 ---
 
-Work line — study
+## Work line — study
 
 ## Statement
 
