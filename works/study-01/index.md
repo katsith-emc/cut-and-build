@@ -22,7 +22,7 @@ Each stage of this transformation is recorded and minted as an NFT — a photogr
 
 The board is cut into the pieces that will be combined into a standing form. This is the structural origin from which the piece begins to transform.
 
-[View NFT on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/1)
+[NFT #0: Cut State — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/1)
 
 ---
 
