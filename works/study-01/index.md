@@ -26,16 +26,4 @@ The board is cut into the pieces that will be combined into a standing form. Thi
 
 ---
 
-[← Back to Works](../../)Thought Principle, tied to a specific moment in time.
-
-## Stage 0 — Cut State
-
-![Cut pieces from a single board, showing the cut lines that will be combined into Study 1, 2026](0study.png)
-
-The board is cut into the pieces that will be combined into a standing form. This is the structural origin from which the piece begins to transform.
-
-[View NFT: #0: Cut State on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/1)
-
----
-
 [← Back to Works](../../)
