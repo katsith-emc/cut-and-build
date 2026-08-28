@@ -4,8 +4,6 @@ title: Cut & Build
 description: "An artwork series visualizing the E=mc Thought Principle: uniform wooden boards, cut once and rejoined at the cut face, generating non-uniform structural outcomes from uniform material."
 ---
 
-### E=mc Thought Principle research: ORCID: [0009-0005-6641-5756](https://orcid.org/0009-0005-6641-5756)
-
 ## A Rule-Based Sculpture Series
 
 
@@ -21,3 +19,6 @@ A sculpture series generating non-uniform outcomes from uniform material, throug
 
 - [Study 1 (2026)](./works/study-01/)
  
+---
+
+E=mc Thought Principle research — ORCID: [0009-0005-6641-5756](https://orcid.org/0009-0005-6641-5756)
