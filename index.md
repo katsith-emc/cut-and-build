@@ -19,6 +19,6 @@ A sculpture series generating non-uniform outcomes from uniform material, throug
 
 - [Study 1 (2026)](./works/study-01/)
  
----
+
 
 E=mc Thought Principle research — ORCID: [0009-0005-6641-5756](https://orcid.org/0009-0005-6641-5756)
