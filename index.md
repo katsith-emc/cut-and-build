@@ -20,3 +20,5 @@ A sculpture series generating non-uniform outcomes from uniform material, throug
 **Work line:**
 
 - [Study 1 (2026)](./works/study-01/)
+
+- [← Back to Works](../../)
