@@ -22,6 +22,14 @@ Four cuts through the center of gravity of a single board, at angles of 0°, 30�
 
 [NFT #0: Cut State — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/1)
 
+
+## Stage 1 — Build
+
+![Eight fragments freely recombined into a standing form, showing wood grain and seams, Study 1, 2026](1study1.webp)
+
+The eight fragments cut in Stage 0 are freely recombined, not returned to their original cut faces. A flat, divided board becomes a standing form. No paint, no color — only wood grain, and the seams where fragments meet. The form was not planned in advance; it was found through combining. Combination has happened. Coloring has not yet begun.
+
+[NFT #1: Build — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/2)
 ---
 
 [← Back to Works](../../)
