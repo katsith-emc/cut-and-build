@@ -36,7 +36,7 @@ The eight fragments cut in Stage 0 are freely recombined, not returned to their 
 
 ![Standing form fully painted white, erasing wood grain, Study 1, 2026](2study1.webp)
 
-The underlying white ground is brought to the surface, erasing the information carried by the wood grain. Material presence gives way to pure form.
+The standing form is covered entirely in white, and the wood grain disappears beneath it. What was material becomes surface — nothing is added in shape, only the way light falls on it has changed. The structure is now fixed enough to be erased, and general enough to be built upon again.
 
 ### [NFT #2: White Painted — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/3)
 
@@ -45,7 +45,7 @@ The underlying white ground is brought to the surface, erasing the information c
 
 ![Vertical planes painted gray to recede within the form, contrasted against the remaining white surfaces, Study 1, 2026](3studygray1.webp)
 
-An operation in contrast. The vertical planes — the largest area within the form — are painted gray, an attempt to make them "recede" against the surrounding white.
+The vertical planes — the largest formal element in this work — are deliberately painted gray, chosen not as color but as contrast, to isolate that element from the rest of the form. And an accident becomes part of the record: black paint has adhered to one overhanging face, not applied but deposited in the process. Intention chose where gray would go; accident decided where black would land. Both marks now belong to the work, and neither can be told apart.
 
 ### [NFT #3: Partial Color: Gray — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/4)
 ---
