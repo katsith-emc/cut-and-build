@@ -31,6 +31,23 @@ The eight fragments cut in Stage 0 are freely recombined, not returned to their 
 
 ### [NFT #1: Build — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/2)
 
+
+## Stage 2 — White Painted
+
+![Standing form fully painted white, erasing wood grain, Study 1, 2026](2study1.webp)
+
+The underlying white ground is brought to the surface, erasing the information carried by the wood grain. Material presence gives way to pure form.
+
+### [NFT #2: White Painted — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/3)
+
+
+## Stage 3 — Partial Color: Gray
+
+![Vertical planes painted gray to recede within the form, contrasted against the remaining white surfaces, Study 1, 2026](3studygray1.webp)
+
+An operation in contrast. The vertical planes — the largest area within the form — are painted gray, an attempt to make them "recede" against the surrounding white.
+
+### [NFT #3: Partial Color: Gray — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/4)
 ---
 
 [← Back to Works](../../)
