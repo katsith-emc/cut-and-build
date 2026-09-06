@@ -48,6 +48,15 @@ The standing form is covered entirely in white, and the wood grain disappears be
 The vertical planes — the largest formal element in this work — are deliberately painted gray, chosen not as color but as contrast, to isolate that element from the rest of the form. And an accident becomes part of the record: black paint has adhered to one overhanging face, not applied but deposited in the process. Intention chose where gray would go; accident decided where black would land. Both marks now belong to the work, and neither can be told apart.
 
 ### [NFT #3: Partial Color: Gray — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/4)
+
+
+## Stage 4 — Partial Color: Blue
+
+![Upward-facing slopes painted a blue close in tone to the gray beneath, with earlier white and a black accident mark still visible on a downward-facing slope, Study 1, 2026](4studyblue1.webp)
+
+Blue is placed only where a surface faces upward under gravity — a quiet shift within the same register as the gray, not a contrasting color. On one downward-facing slope, the white ground from Stage 2 remains, and the black mark accidentally deposited in Stage 3 is still visible beneath it. Nothing from before has been erased; each stage now shows through the next.
+
+### [NFT #4: Partial Color: Blue — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/5)
 ---
 
 [← Back to Works](../../)
