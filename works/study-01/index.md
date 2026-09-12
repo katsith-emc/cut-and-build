@@ -59,4 +59,23 @@ Blue is placed only where a surface faces upward under gravity — a quiet shift
 ### [NFT #4: Partial Color: Blue — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/5)
 ---
 
+Cut & Build — Declarations
+
+(as of September 12, 2026)
+
+This NFT records the transformation process of a real, physical sculptural work. It is not intended as proof or demonstration of any theory (the E=mc Thought Principle).
+
+Ownership of the physical work is separate from ownership of this NFT. Acquiring the NFT does not confer ownership or transfer of the physical piece.
+
+This NFT is a record of a specific point in time; the physical work may continue to change or be altered afterward. Owning this NFT does not imply ownership of a "final" or completed form.
+
+The digital content of this NFT (image and metadata) is released under a CC BY 4.0 license. Anyone may freely access, reference, cite, adapt, and reuse it, provided that the artist's name, the work's title, and the source are credited.
+
+This license applies only to the digital content of the NFT. It does not extend to physical reproduction, re-fabrication, or commercial use of the physical sculptural work itself.
+
+The artist assumes no responsibility for, and does not endorse, any derivative or adapted works created under this license.
+This NFT carries no guarantee of financial or investment value.
+
+---
+
 [← Back to Works](../../)
