@@ -57,6 +57,15 @@ The vertical planes — the largest formal element in this work — are delibera
 Blue is placed only where a surface faces upward under gravity — a quiet shift within the same register as the gray, not a contrasting color. On one downward-facing slope, the white ground from Stage 2 remains, and the black mark accidentally deposited in Stage 3 is still visible beneath it. Nothing from before has been erased; each stage now shows through the next.
 
 ### [NFT #4: Partial Color: Blue — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/5)
+
+
+## Stage 5 — Partial Color: Beige
+
+![Downward-facing slopes painted beige, following the blue given to upward-facing slopes in Stage 4, Study 1, 2026](5study1.webp)
+
+Downward-facing slopes are painted beige, following the blue given to upward-facing slopes in Stage 4. If blue was sky assigned to what faces up, beige is land assigned to what faces down — the structure now carries two directions at once. The black mark accidentally deposited in Stage 3, still visible through Stage 4, is covered by this beige. A trace is not erased by disappearing from sight; it remains part of what this work has been, even where paint no longer lets it show.
+
+### [NFT #5: Partial Color: Beige — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/6)
 ---
 
 Cut & Build — Declarations
