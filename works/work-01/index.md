@@ -6,8 +6,6 @@ image: /works/work-01/work1a-gray.webp
 
 [Cut & Build — Katsutoshi Mayumi Art Work Archive](https://katsith-emc.github.io/cut-and-build/)
 
-# Work 1 (2026)
-
 ## Work line — standard form (STD)
 
 ## Statement
