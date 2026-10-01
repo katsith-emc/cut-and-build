@@ -66,6 +66,16 @@ Blue is placed only where a surface faces upward under gravity — a quiet shift
 Downward-facing slopes are painted beige, following the blue given to upward-facing slopes in Stage 4. If blue was sky assigned to what faces up, beige is land assigned to what faces down — the structure now carries two directions at once. The black mark accidentally deposited in Stage 3, still visible through Stage 4, is covered by this beige. A trace is not erased by disappearing from sight; it remains part of what this work has been, even where paint no longer lets it show.
 
 ### [NFT #5: Partial Color: Beige — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/6)
+
+
+## Stage 6 — Partial Color: Brown
+
+![Base and a small facet near the center painted brown, shown from a base-facing angle, Study 1, 2026](6study1.webp)
+![Base and a small facet near the center painted brown, shown from a base-facing angle, Study 1, 2026](6study2.webp)
+
+The images are from a base-facing angle. The base is painted brown, following the blue given to upward-facing slopes in Stage 4 and the beige given to downward-facing slopes in Stage 5. A small facet near the center and the sculpture's actual base both carry this color. Where blue was sky and beige was land, brown is ground — the direction the work rests on, rather than the direction it faces. Three directions now hold three colors: what stands upward, what overhangs downward, and what touches the ground beneath are each marked differently.
+
+### [NFT #6: Partial Color: Brown — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/11)
 ---
 
 Cut & Build — Declarations
