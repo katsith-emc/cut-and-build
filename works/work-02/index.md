@@ -4,8 +4,6 @@ description: An artwork series visualizing the E=mc Thought Principle, extended 
 image: /works/work-02/work2a.webp
 ---
 
-[Cut & Build — Katsutoshi Mayumi Art Work Archive](https://katsith-emc.github.io/cut-and-build/)
-
 ## Work line
 
 ## Statement
