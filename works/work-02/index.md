@@ -6,8 +6,6 @@ image: /works/work-02/work2a.webp
 
 [Cut & Build — Katsutoshi Mayumi Art Work Archive](https://katsith-emc.github.io/cut-and-build/)
 
-# Work 2 (2026)
-
 ## Work line
 
 ## Statement
