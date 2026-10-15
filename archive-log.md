@@ -1,3 +1,8 @@
+---
+title: Archive Log
+permalink: /archive-log/
+---
+
 # Archive Log
 
 Third-party snapshots of this site via the Internet Archive (Wayback Machine, Save Page Now).
