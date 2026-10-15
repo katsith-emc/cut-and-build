@@ -9,6 +9,8 @@ description: "An artwork series visualizing the E=mc Thought Principle: uniform 
 
 A sculpture series generating non-uniform outcomes from uniform material, through variation in cutting angle — a physical manifestation of the E=mc Thought Principle.
 
+[Archive Log](https://katsith-emc.github.io/cut-and-build/archive-log/)
+
 (E=mc Thought Principle research — ORCID: [0009-0005-6641-5756](https://orcid.org/0009-0005-6641-5756))
 
 **Structural line — works that make theory visible:**
@@ -22,6 +24,3 @@ A sculpture series generating non-uniform outcomes from uniform material, throug
 - [Study 1 (2026)](./works/study-01/)
 - [Work 1 (2026)](./works/work-01/)
 - [Work 2 (2026)](./works/work-02/)
-
-
-[Archive Log](https://katsith-emc.github.io/cut-and-build/archive-log/)
