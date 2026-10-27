@@ -17,13 +17,19 @@ Size: 15 × 9 × 1.5 cm
 
 ![Wooden board cut at 30 degrees, one piece reversed and rejoined, Cut & Build 2, 2026](./cut30r.webp)
 
+#### [NFT #16: Cut at 30° (Angle Group) — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/16)
+
 ### Cut at 60°, reversed
 
 ![Wooden board cut at 60 degrees, one piece reversed and rejoined, Cut & Build 2, 2026](./cut60r.webp)
 
+#### [NFT #17: Cut at 60° (Angle Group) — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/17)
+
 ### 120° relationship
 
 ![The two works placed together, generating a 120° relationship, Cut & Build 2, 2026](./cut120.webp)
+
+#### [NFT #18: Relation 120° — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/18)
 
 ---
 [← Back to Works](../../)
