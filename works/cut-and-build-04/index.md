@@ -18,20 +18,28 @@ Size: 15 × 9 × 1.5 cm
 ![Wooden board cut at 0 degrees, vertically bonded, Cut & Build 4, 2026](cut0v.webp)
 ![Wooden board cut at 0 degrees, vertically bonded, Cut & Build 4, 2026](cut0valt.webp)
 
+#### [NFT #14: Cut at 0° (Angle Group) — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/14)
+
 ### Cut at 30°, vertical bonding
 
 ![Wooden board cut at 30 degrees, vertically bonded, Cut & Build 4, 2026](cut30v.webp)
 ![Wooden board cut at 30 degrees, vertically bonded, Cut & Build 4, 2026](cut30valt.webp)
+
+#### [NFT #16: Cut at 30° (Angle Group) — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/16)
 
 ### Cut at 60°, vertical bonding
 
 ![Wooden board cut at 60 degrees, vertically bonded, Cut & Build 4, 2026](cut60v.webp)
 ![Wooden board cut at 60 degrees, vertically bonded, Cut & Build 4, 2026](cut60valt.webp)
 
+#### [NFT #17: Cut at 60° (Angle Group) — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/17)
+
 ### Cut at 90°, vertical bonding
 
 ![Wooden board cut at 90 degrees, vertically bonded, Cut & Build 4, 2026](cut90v.webp)
 ![Wooden board cut at 90 degrees, vertically bonded, Cut & Build 4, 2026](cut90valt.webp)
+
+#### [NFT #15: Cut at 90° (Angle Group) — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/15)
 
 ---
 
