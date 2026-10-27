@@ -48,6 +48,10 @@ Not a relationship this time — but its absence, equally demanded by the struct
 
 #### [NFT #15: Cut at 90° (Angle Group) — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/15)
 
+### Absence of relation (30° / 60°)
+
+#### [NFT #19: Absence of Relation, 30° / 60° — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/19)
+
 ---
 
 [← Back to Works](../../)
