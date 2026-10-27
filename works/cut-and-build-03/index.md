@@ -25,20 +25,28 @@ Not a relationship this time — but its absence, equally demanded by the struct
 ![Wooden board cut at 0 degrees, reversed and rejoined in parallel, standing view, Cut & Build 3, 2026](cut0p.webp)
 ![Wooden board cut at 0 degrees, reversed and rejoined in parallel, side view, Cut & Build 3, 2026](cut0ps.webp)
 
+#### [NFT #14: Cut at 0° (Angle Group) — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/14)
+
 ### Cut at 30°, reversed parallel join
 
 ![Wooden board cut at 30 degrees, reversed and rejoined in parallel, standing view, Cut & Build 3, 2026](cut30p.webp)
 ![Wooden board cut at 30 degrees, reversed and rejoined in parallel, side view, Cut & Build 3, 2026](cut30ps.webp)
+
+#### [NFT #16: Cut at 30° (Angle Group) — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/16)
 
 ### Cut at 60°, reversed parallel join
 
 ![Wooden board cut at 60 degrees, reversed and rejoined in parallel, standing view, Cut & Build 3, 2026](cut60p.webp)
 ![Wooden board cut at 60 degrees, reversed and rejoined in parallel, side view, Cut & Build 3, 2026](cut60ps.webp)
 
+#### [NFT #17: Cut at 60° (Angle Group) — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/17)
+
 ### Cut at 90°, reversed parallel join
 
 ![Wooden board cut at 90 degrees, reversed and rejoined in parallel, standing view, Cut & Build 3, 2026](cut90p.webp)
 ![Wooden board cut at 90 degrees, reversed and rejoined in parallel, side view, Cut & Build 3, 2026](cut90ps.webp)
+
+#### [NFT #15: Cut at 90° (Angle Group) — View on OpenSea →](https://opensea.io/item/polygon/0xb5cf09c66e6deb732bb96b57b6a15d807a1c8905/15)
 
 ---
 
