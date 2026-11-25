@@ -24,3 +24,4 @@ A sculpture series generating non-uniform outcomes from uniform material, throug
 - [Study 1 (2026)](./works/study-01/)
 - [Work 1 (2026)](./works/work-01/)
 - [Work 2 (2026)](./works/work-02/)
+- [Work 3 (2026)](./works/work-03/)
