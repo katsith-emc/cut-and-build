@@ -55,6 +55,10 @@ To make a monolith, then, can be redefined as:
 
 Any material will do. Any form will do. Assume a static singularity inside something large, erase everything else according to that assumption, and see what remains.
 
+Can what has been made in this way be called a monolith itself?
+
+No. It is not the monolith itself. What has been extracted from an assumption is nothing more than a model of a monolith. I cannot create the monolith itself.
+
 *Based on the author's note article "How to Make a Monolith — On Extraction by Erasure" (in Japanese, 30 August 2026).*
 
 [← Back to Cut & Build](../../)
