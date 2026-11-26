@@ -19,7 +19,7 @@ description: "Experimental work: a monolith made by extraction by erasure — as
 This is not an instruction to "make a monolith." It describes one way a monolith can come into being.
 
 **1. Assume a static singularity.**
-Imagine something large — bedrock, a tree, the ground itself. Inside it, assume an as-yet-unrecognized point or region: a static singularity. It is an extremely determined structure, like 1 + 1 = 2, where the correspondence is closed, with nothing in excess and nothing missing. It is not a place where something happens, but a place where nothing more needs to happen.
+Imagine something large — bedrock, a tree, the ground itself. Inside it, assume an as-yet-unrecognized point or region: a static singularity. Here, the monolith is conceived as a static singularity: a fully determined structure that exists as an assumption within a larger mass, rather than a form waiting to be discovered.It is an extremely determined structure, like 1 + 1 = 2, where the correspondence is closed, with nothing in excess and nothing missing. It is not a place where something happens, but a place where nothing more needs to happen.
 
 **2. Assume, don't discover.**
 The question is not "what is in here?" but "what if this is in here?" The direction of work reverses: the material no longer teaches the form. The assumption gives the material its boundary.
