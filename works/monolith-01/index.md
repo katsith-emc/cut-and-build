@@ -20,7 +20,7 @@ This is not an instruction to "make a monolith." It describes one way a monolith
 
 **1. Assume a static singularity.**
 Imagine something large — bedrock, a tree, the ground itself. Inside it, assume an as-yet-unrecognized point or region: a static singularity. 
-Here, the monolith is conceived as a static singularity: a fully determined structure that exists as an assumption within a larger mass, rather than a form waiting to be discovered.It is an extremely determined structure, like 1 + 1 = 2, where the correspondence is closed, with nothing in excess and nothing missing. 
+Here, the monolith is conceived as a static singularity: a fully determinate structure assumed within a larger mass, rather than a form waiting to be discovered. Like 1 + 1 = 2, its correspondence is closed, with nothing in excess and nothing missing. 
 It is not a place where something happens, but a place where nothing more needs to happen.
 
 **2. Assume, don't discover.**
@@ -41,7 +41,7 @@ Extraction by erasure runs differently:
 What is extracted is not a form found in the material, but what remains after everything other than the assumption is erased. Making is neither adding form nor discovering it. *Erase in order to keep.*
 
 **5. What is cut away is not a "part" — it is a "retreat."**
-In Cut & Build, cut pieces become parts to be rearranged. Here, the removed pieces are not components of the work. They withdraw to the side of the world so that the work can stand. There is no reassembly; only what remains appears as the final existence.
+In Cut & Build, cut pieces become parts to be rearranged. Here, the removed pieces are not components of the work. They withdraw to the side of the world so that the work can stand. There is no reassembly; only what remains stands as the work.
 
 **6. A monolith is not a large block.**
 Its shape need not be a rectangle. What matters is not the form but the conditions under which the form came to be — not what was made, but *what was kept and what was made to retreat*.
